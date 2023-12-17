@@ -13,8 +13,9 @@ Software-Architect and Developer
 ## Currently
 
 - Full-stack Software-Architect and Developer
+- Software-Development-Lead @ Fit-Up
 
-### Methods 
+## Methods 
 
 - Agile Methodologies (Scrum, Kanban)
 - Test-driven development
@@ -26,7 +27,7 @@ Software-Architect and Developer
 - REST-APIs
 - GraphQL
 
-### Languages and Frameworks
+## Languages and Frameworks
 
 - Java, Scala, Groovy, Kotlin
 - Spring, Spring Boot
