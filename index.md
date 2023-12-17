@@ -2,7 +2,7 @@
 layout: cv
 title: Martin's CV
 ---
-<img style="float: right; margin-right: 20%; margin-top: 10px; margin-left: 10px; border-radius: 50%" alt="" src="https://avatars.githubusercontent.com/u/7995757?v=4" width="200" height="200">
+<img id="profile-image" style="float: right; margin-right: 20%; margin-top: 10px; margin-left: 10px; border-radius: 50%" alt="" src="https://avatars.githubusercontent.com/u/7995757?v=4" width="200" height="200">
 # Martin Ley
 Software-Architect and Developer
 
@@ -83,13 +83,15 @@ Software-Architect and Developer
 __[Fit-Up Gmbh](https://www.fit-up.com)__, Linz
 
 Software-Development-Lead
+
 - Designing, implementing, deploying and operating a mobile app and backend for corporate fitness
 
 `06/2017 - 05/2022`
 __[smarter-ecommerce GmbH](https://www.smarter-ecommerce.com)__, Linz
 
 Software-Architect and Developer
-- designing and developing multiple microservice-based applications
+
+- Designing and developing multiple microservice-based applications
 
 
 `05/2006 - 05/2017`

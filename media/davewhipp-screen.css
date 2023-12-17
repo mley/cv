@@ -175,6 +175,14 @@ a:hover {
 	text-decoration: none;
 }
 
+#profile-image {
+	float: right;
+	margin-right: 10%;
+	margin-top: 10px;
+	margin-left: 10px;
+	border-radius: 50%
+}
+
 em {
 	/* font-weight: bold; */
 	font-style: italic;

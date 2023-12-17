@@ -176,6 +176,13 @@ a:hover {
 	text-decoration: none;
 }
 
+
+#profile-image {
+	float: right;
+	margin-top: 10px;
+	border-radius: 50%
+}
+
 em {
 	font-style: normal;
 	color: #2d4e5e
