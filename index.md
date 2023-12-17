@@ -2,7 +2,8 @@
 layout: cv
 title: Martin's CV
 ---
-<img id="profile-image" style="float: right; margin-right: 20%; margin-top: 10px; margin-left: 10px; border-radius: 50%" alt="" src="https://avatars.githubusercontent.com/u/7995757?v=4" width="200" height="200">
+<img id="profile-image"  alt="That's me" src="https://avatars.githubusercontent.com/u/7995757?v=4" >
+
 # Martin Ley
 Software-Architect and Developer
 

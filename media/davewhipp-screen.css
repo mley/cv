@@ -180,7 +180,9 @@ a:hover {
 	margin-right: 10%;
 	margin-top: 10px;
 	margin-left: 10px;
-	border-radius: 50%
+	border-radius: 50%;
+	width: 200px;
+	height: 200px;
 }
 
 em {
