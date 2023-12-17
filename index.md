@@ -8,18 +8,22 @@ title: Martin's CV
 Software-Architect and Developer
 
 <div id="webaddress">
-<a href="leymartin@gmail.com">leymartin@gmail.com</a>
+<a href="leymartin@gmail.com">📧 leymartin@gmail.com</a>
 </div>
+
+📍 Hargelsberg, Austria
 
 ## Currently
 
 - Full-stack Software-Architect and Developer
 - Software-Development-Lead @ Fit-Up
+- Husband, Father
+- Cyclist, Stronglifter
 
 ## What drives me
 - I love to create software that is easy to use and maintain
-- I love to work with people that are passionate about their work
-- I love to work in a team that is focused on delivering value to the customer
+- I like working with people that are passionate about their work
+- I enjoy to work in a team that is focused on delivering value to the customer
 
 ## Methods, Concepts and Technologies
 
