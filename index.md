@@ -2,10 +2,10 @@
 layout: cv
 title: Martin's CV
 ---
+<img style="float: right; margin-right: 20%; margin-top: 10px; margin-left: 10px; border-radius: 50%" alt="" src="https://avatars.githubusercontent.com/u/7995757?v=4" width="200" height="200">
 # Martin Ley
 Software-Architect and Developer
 
-<img style="float: right; margin-right: 20%; border-radius: 50%" alt="" src="https://avatars.githubusercontent.com/u/7995757?v=4" width="260" height="260">
 <div id="webaddress">
 <a href="leymartin@gmail.com">leymartin@gmail.com</a>
 </div>
