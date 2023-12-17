@@ -2,7 +2,7 @@
 layout: cv
 title: Martin's CV
 ---
-<img id="profile-image"  alt="That's me" src="https://avatars.githubusercontent.com/u/7995757?v=4" >
+<img id="profile-image" alt="That's me" src="https://avatars.githubusercontent.com/u/7995757?v=4" >
 
 # Martin Ley
 Software-Architect and Developer
@@ -15,8 +15,8 @@ Software-Architect and Developer
 
 ## Currently
 
-- Full-stack Software-Architect and Developer
 - Software-Development-Lead @ Fit-Up
+- Full-stack Software-Architect and Developer
 - Husband, Father
 - Cyclist, Stronglifter
 
@@ -103,11 +103,12 @@ Software-Architect and Developer
 __[tarent solutions Gmbh](https://www.qvest.com/de/digital-product-development)__, Bonn
 
 Software-Developer and Architect
-- embedded automotive diagnostic system
-- IAM-System for a large german logistics company
-- Video-Helpdesk-System
-- Self-checkout-System
-- and many more
+
+- Developing an embedded automotive diagnostic system
+- Developing and integrating an IAM-System for a large german logistics company
+- Developing a Video-Helpdesk-System
+- Developing a Self-checkout-System
+- And many more
 
 
 ## Education
