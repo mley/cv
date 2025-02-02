@@ -8,14 +8,19 @@ title: Martin's CV
 Software-Architect and Developer
 
 <div id="webaddress">
-<a href="leymartin@gmail.com">📧 leymartin@gmail.com</a>
+<a href="mailto:leymartin@gmail.com">📧 leymartin@gmail.com</a>
+</div>
+<div id="webaddress">
+<a href="https://www.linkedin.com/in/martin-ley-7a4a80240/">🔗 LinkedIn</a>&nbsp;
+<a href="https://github.com/mley">🔗 GitHub</a>
 </div>
 
-📍 Hargelsberg, Austria
+
+📍 Haimhausen, Germany
 
 ## Currently
 
-- Software-Development-Lead @ Fit-Up
+- Software-Development-Lead @ Fit-Up, Linz, Austria
 - Full-stack Software-Architect and Developer
 - Husband, Father
 - Cyclist, Stronglifter
@@ -85,22 +90,24 @@ Software-Architect and Developer
 ## Occupation
 
 `06/2022 - now`
-__[Fit-Up Gmbh](https://www.fit-up.com)__, Linz
+__[Fit-Up Gmbh](https://www.fit-up.com)__, Linz, Austria
 
 Software-Development-Lead
 
 - Designing, implementing, deploying and operating a mobile app and backend for corporate fitness
 
 `06/2017 - 05/2022`
-__[smarter-ecommerce GmbH](https://www.smarter-ecommerce.com)__, Linz
+__[smarter-ecommerce GmbH](https://www.smarter-ecommerce.com)__, Linz, Austria
 
 Software-Architect and Developer
 
-- Designing and developing multiple microservice-based applications
+- Designing and developing multiple microservice-based big-data applications
+- Deploying, running and monitoring these applications on Kubernetes, Google Cloud Platform
+
 
 
 `05/2006 - 05/2017`
-__[tarent solutions Gmbh](https://www.qvest.com/de/digital-product-development)__, Bonn
+__[tarent solutions Gmbh](https://www.qvest.com/de/digital-product-development)__, Bonn, Germany
 
 Software-Developer and Architect
 
@@ -122,6 +129,6 @@ __Hochschule Bonn-Rhein-Sieg__, Sankt Augustin
 
 <!-- ### Footer
 
-Last updated: December 2023 -->
+Last updated: February 2025 -->
 
 
