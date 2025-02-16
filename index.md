@@ -62,6 +62,7 @@ Software-Architect and Developer
 - [Angular](https://angular.io/)
 - [Spock](https://spockframework.org/)
 
+
 ### Side dishes
 - [Flyway](https://flywaydb.org/)
 - [ELK-Stack](https://www.elastic.co/)
