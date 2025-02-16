@@ -27,27 +27,28 @@ Software-Architect and Developer
 
 ## What drives me
 - I love to create software that is easy to use and maintain
-- I like working with people that are passionate about their work
+- I like working with people who are passionate about their work
 - I enjoy to work in a team that is focused on delivering value to the customer
 
 ## Methods, Concepts and Technologies
 
 - Agile Methodologies (Scrum, Kanban)
+- Enterprise Integration Patterns
+- Domain-Driven-Design
+- Event-Driven-Architecture
+- Clean Code/Architecture
+- SOLID
+- CQRS
 - Test-driven development
 - Pair-Programming
 - Devops
 - CI/CD
 - Identity and Access Management
 - Microservices
+- Event-Sourcing
 - REST-APIs
 - GraphQL
-- Domain-Driven-Design
-- Event-Driven-Architecture
-- Clean Code
-- Clean Architecture
-- SOLID
-- CQRS
-- Event-Sourcing
+
 
 ## Languages and Frameworks
 
