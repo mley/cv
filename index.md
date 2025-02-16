@@ -39,15 +39,14 @@ Software-Architect and Developer
 - Clean Code/Architecture
 - SOLID
 - CQRS
+- Event-Sourcing
 - Test-driven development
 - Pair-Programming
 - Devops
 - CI/CD
 - Identity and Access Management
 - Microservices
-- Event-Sourcing
-- REST-APIs
-- GraphQL
+- API Design
 
 
 ## Languages and Frameworks
@@ -96,7 +95,9 @@ __[Fit-Up Gmbh](https://www.fit-up.com)__, Linz, Austria
 
 Software-Development-Lead
 
-- Designing, implementing, deploying and operating a mobile app and backend for corporate fitness
+- Designing and implementing a a software-architecture for corporate fitness
+- Implementing and deploying a mobile app on PlayStore and AppStore
+- Designing, implementing and operating a Spring Boot backend
 
 `06/2017 - 05/2022`
 __[smarter-ecommerce GmbH](https://www.smarter-ecommerce.com)__, Linz, Austria
@@ -104,8 +105,7 @@ __[smarter-ecommerce GmbH](https://www.smarter-ecommerce.com)__, Linz, Austria
 Software-Architect and Developer
 
 - Designing and developing multiple microservice-based big-data applications
-- Deploying, running and monitoring these applications on Kubernetes, Google Cloud Platform
-
+- Deploying, running and monitoring these applications on Kubernetes, GCP
 
 
 `05/2006 - 05/2017`
@@ -119,13 +119,13 @@ Software-Developer and Architect
 - Developing a Self-checkout-System
 - And many more
 
-
 ## Education
 
 `2000-2006`
 __Hochschule Bonn-Rhein-Sieg__, Sankt Augustin
 
-* Diplom-Informatiker(FH)
+- Studying applied computer-science
+- achieved degree Diplom-Informatiker(FH)
 
 
 
