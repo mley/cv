@@ -24,6 +24,7 @@ Software-Architect and Developer
 - Full-stack Software-Architect and Developer
 - Husband, Father
 - Cyclist, Stronglifter
+- Home-Improver, Renovator and All-Rounder.
 
 ## What drives me
 - I love to create software that is easy to use and maintain
@@ -63,6 +64,7 @@ Software-Architect and Developer
 
 
 ### Side dishes
+- [Akka/Pekko](https://pekko.apache.org/)
 - [Flyway](https://flywaydb.org/)
 - [ELK-Stack](https://www.elastic.co/)
 - [RabbitMQ](https://www.rabbitmq.com/)
@@ -95,7 +97,7 @@ __[Fit-Up Gmbh](https://www.fit-up.com)__, Linz, Austria
 
 Software-Development-Lead
 
-- Designing and implementing a a software-architecture for corporate fitness
+- Designing and implementing the software-architecture for a corporate health management solution
 - Implementing and deploying a mobile app on PlayStore and AppStore
 - Designing, implementing and operating a Spring Boot backend
 
@@ -115,8 +117,8 @@ Software-Developer and Architect
 
 - Developing an embedded automotive diagnostic system
 - Developing and integrating an IAM-System for a large german logistics company
-- Developing a Video-Helpdesk-System
-- Developing a Self-checkout-System
+- Developing a video-helpdesk system
+- Developing a self-checkout system
 - And many more
 
 ## Education
@@ -131,6 +133,6 @@ __Hochschule Bonn-Rhein-Sieg__, Sankt Augustin
 
 <!-- ### Footer
 
-Last updated: February 2025 -->
+Last updated: June 2025 -->
 
 
